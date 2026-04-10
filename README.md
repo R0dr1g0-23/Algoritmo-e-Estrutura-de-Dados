@@ -1,7 +1,7 @@
-# Algoritmo-e-Estrutura-de-Dados
-Algoritmos e estrutura de dados - UFS
-Aluno: Rodrigo Santos Leite
-matricula:202500056694
-Professor:  ANDRE YOSHIAKI KASHIWABARA
+# Algoritmos e Estrutura de Dados — UFS
 
-Repositório dedicado a matéria de Algoritmo e Estrutura de dados.
+Repositório dedicado à disciplina de Algoritmos e Estrutura de Dados.
+
+**Aluno:** Rodrigo Santos Leite  
+**Matrícula:** 202500056694  
+**Professor:** André Yoshiaki Kashiwabara  
